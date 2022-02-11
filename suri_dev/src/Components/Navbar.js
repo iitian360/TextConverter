@@ -39,8 +39,8 @@ Navbar.Prototype={title:PropTypes.string.isRequired,
 
 // default props
 Navbar.defaultProps={
-    title:"set title",
-    abt:"set about text"
+    title:"TextConverter",
+    abt:"About us"
 }  
 
 

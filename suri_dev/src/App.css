@@ -67,3 +67,14 @@
   color: white;
  
 }
+
+.head{
+ 
+  
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 900;
+}
+#prev{
+  border: 3px solid rgb(111, 111, 121);
+  padding: 15px;
+}
